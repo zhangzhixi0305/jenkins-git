@@ -4,6 +4,6 @@
     <title>Jenkins-Git</title>
 </head>
 <body>
-<h1>Jenkins整合Git</h1>
+<h1>Jenkins整合Git.</h1>
 </body>
 </html>
